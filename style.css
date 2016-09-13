@@ -70,10 +70,7 @@ a {
     color: #397249;
 }
 a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
     text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
 }
 
 /* Horizontal separators */
