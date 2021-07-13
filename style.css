@@ -46,14 +46,19 @@ h2:before {
 
 /* Definitions */
 dt {
+    width: 20%;
     float: left;
-    clear: left;
-    width: 17%;
+    clear: both;
     font-weight: bold;
 }
 dd {
-    margin-left: 17%;
+    margin-left: 20%;
 }
+
+dd ul {
+    margin: 0;
+}
+
 p {
     margin-top:0;
     margin-bottom:7px;
